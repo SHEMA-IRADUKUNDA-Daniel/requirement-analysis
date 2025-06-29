@@ -44,3 +44,14 @@ Use Case Diagrams visually represent system actors and interactions. They help s
 
 ![Use Case Diagram](alx-booking-uc.png)
 
+# Acceptance Criteria
+
+Acceptance Criteria are predefined conditions that a software product must satisfy to be accepted by a user or stakeholder. They help in validating that the system meets business needs and user expectations.
+
+**Example - Checkout Feature Acceptance Criteria:**
+- The system should allow users to view booking summary before checkout.
+- Payment gateway must support credit card and mobile payment methods.
+- A confirmation email should be sent upon successful checkout.
+- Booking status must update immediately after payment confirmation.
+
+
